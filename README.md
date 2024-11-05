@@ -8,3 +8,6 @@
    npm install
    npm start
    The application will be accessible at http://localhost:3000
+
+## Deployment Link
+[Todo App Deployment](https://todo-app-alphanso.netlify.app/)
