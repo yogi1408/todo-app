@@ -1,4 +1,3 @@
-// src/App.tsx
 import React from "react";
 import { TaskProvider } from "./context/TaskContext";
 import AddTask from "./components/AddTask";
